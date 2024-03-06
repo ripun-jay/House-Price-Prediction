@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(169, 165, 160);
+    text-align: center;
+    /* Set background image URL */
+    background-image: url('house.webp');
+    /* Specify background size, repeat, and position if needed */
+    background-size: cover; /* or contain, or a specific size like 100px 100px */
+    background-repeat: no-repeat; /* or repeat-x, repeat-y */
+    background-position: calc(); /* or top left, bottom right, etc. */
+    /* Set a fallback background color in case the image is not available or takes time to load */
+    /* Ensure the background image covers the entire viewport */
+    height: 100vh;
+    margin: 0;
+    /* Optional: You can add additional styling for the body if needed */
+    font-family: Arial, sans-serif;
+    color: whitesmoke;
+    font-size: larger;
+    font: optional;
+    
+}
